@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.sizer{
+  width: 500px;
+  height: 250px;
+  margin-bottom: 40px;
+}
+
+.sizer2{
+  width: 500px;
+  height: 250px;
+  margin-bottom: 80px;
+}
+
+.nope{
+  display: none
+}
